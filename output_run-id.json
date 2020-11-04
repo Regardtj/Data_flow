@@ -1,0 +1,5 @@
+{
+  "runId": "21cd6b68-757e-4bc4-af81-6e992440e7bd",
+  "statusURI": "https://vl-aus-ctm-em01.ctm.bmc.com:8443/automation-api/run/status/21cd6b68-757e-4bc4-af81-6e992440e7bd"
+}
+-i is not supported. The interactive URL property 'monitorPageURI' not found in command result
